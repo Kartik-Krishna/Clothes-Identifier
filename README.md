@@ -1,0 +1,2 @@
+# Clothes-Identifier
+Images are one of the major sources of data in the field of data science and AI. This field is making appropriate use of information that can be gathered through images by examining its features and details.  The idea behind this project is to build a deep learning-based Image Classification model on images that will be scraped from e-commerce portals. This is done to make the model more and more robust. 
